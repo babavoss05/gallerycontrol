@@ -132,9 +132,9 @@ public class MainActivity extends Activity {
 
 
 ## OUTPUT:
-![WhatsApp Image 2024-04-08 at 08 52 35_64f0dc22](https://github.com/sabithapaulraj/gallerycontrol/assets/118343379/47acac78-ea52-4dec-b4d2-1fabbfe529ba)
-![WhatsApp Image 2024-04-08 at 08 52 35_94934bcd](https://github.com/sabithapaulraj/gallerycontrol/assets/118343379/95d6eaa0-207a-42d7-906c-f95ba0d87d88)
-![Screenshot 2024-04-20 184021](https://github.com/sabithapaulraj/gallerycontrol/assets/118343379/048f4e98-c4ea-493c-a5b5-ded1b513b50f)
+![WhatsApp Image 2024-04-08 at 08 52 35_64f0dc22](https://github.com/sabithapaulraj/gallerycontrol/assets/118343379/47acac78-ea52-4dec-b4d2-1fabbfe529ba) <br>
+![WhatsApp Image 2024-04-08 at 08 52 35_94934bcd](https://github.com/sabithapaulraj/gallerycontrol/assets/118343379/95d6eaa0-207a-42d7-906c-f95ba0d87d88) <br>
+![Screenshot 2024-04-20 184021](https://github.com/sabithapaulraj/gallerycontrol/assets/118343379/048f4e98-c4ea-493c-a5b5-ded1b513b50f) <br>
 
 
 
